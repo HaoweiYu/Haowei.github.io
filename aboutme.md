@@ -15,4 +15,4 @@ My name is Haowei Yu. I have the following qualities:
 ### My biggest son
 
 I got my first dog when I almost graduated from the University. He was a lovely golden retriver and labrador as known as goldador
-![Guai](assets/img/Guai's face.jpg)
+![Guai](assets/img/guai/Guai_puppy.jpg)

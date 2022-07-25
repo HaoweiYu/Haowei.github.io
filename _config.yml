@@ -50,15 +50,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "yuhaowei@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Haowei Yu
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: Haowei Yu
   github: haoweiyu
-  twitter: Haowei Yu
-  patreon: Haowei Yu
+#  twitter: Haowei Yu
+#  patreon: Haowei Yu
   youtube: channel/UC73KfmYwPaTQWqjBApXWIvw
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: haowei-yu-179481246
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

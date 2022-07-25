@@ -51,11 +51,11 @@ round-avatar: true
 social-network-links:
   email: "yuhaowei@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-   facebook: Haowei Yu
-   github: haoweiyu
-   twitter: Haowei Yu
-   patreon: Haowei Yu
-   youtube: channel/UC73KfmYwPaTQWqjBApXWIvw
+  facebook: Haowei Yu
+  github: haoweiyu
+  twitter: Haowei Yu
+  patreon: Haowei Yu
+  youtube: channel/UC73KfmYwPaTQWqjBApXWIvw
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My hometown
-cover-img: /assets/img/chengdu/metropolitan_.jpg
+cover-img: /assets/img/chengdu/chengdu_metropolitan.jpg
 subtitle: This where I was born and raised
 ---
 

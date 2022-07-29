@@ -21,7 +21,9 @@ author: Haowei YU
 
 navbar-links:
   About Me:
+    - Basic information: "aboutme"
     - My hometown: "myhometown"
+    - My dog: "mydog"
   Resume: "resume"
   Project: "project"
 

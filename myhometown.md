@@ -1,8 +1,8 @@
 ---
 layout: page
 title: My hometown
-subtitle: This where I was born and raised
 cover-img: /assets/img/chengdu/metropolitan_.jpg
+subtitle: This where I was born and raised
 ---
 
 ###The most beautiful city in China
